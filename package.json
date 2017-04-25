@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [datastructures-js (v3.0.5)](https://github.com/eyas-ranjous/datastructures-js#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-datastructures-js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-datastructures-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-datastructures-js.svg)](https://travis-ci.org/npmtest/node-npmtest-datastructures-js)",
+    "description": "#### basic test coverage for  [datastructures-js (v3.0.5)](https://github.com/eyas-ranjous/datastructures-js#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-datastructures-js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-datastructures-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-datastructures-js.svg)](https://travis-ci.org/npmtest/node-npmtest-datastructures-js)",
     "devDependencies": {
         "datastructures-js": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
